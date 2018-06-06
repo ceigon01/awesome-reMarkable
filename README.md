@@ -41,3 +41,4 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 ## Launchers
 - [draft-reMarkable](https://github.com/dixonary/draft-reMarkable) - A launcher for the reMarkable tablet, which wraps around the standard interface.
+- [Einkpads Template Installer] https://www.einkpads.com) - A drag-n-drop template installer
